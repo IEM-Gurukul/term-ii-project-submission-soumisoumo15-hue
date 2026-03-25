@@ -1,0 +1,9 @@
+package Main;
+
+import view.HotelGUI;
+
+public class Main {
+    public static void main(String[] args) {
+        new HotelGUI();
+    }
+}
